@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @POM-J-fullstack
 - 👀 I’m interested in Full-Stack Engineering 
-- 🌱 I’m currently learning everything I need to learn to be a Full-Stack Engineer
-- 💞️ I’m looking to collaborate on various projects that can prepare me success
+- 🌱 I’m currently learning everything I need to know to be a Full-Stack Engineer
+- 💞️ I’m looking to collaborate on various projects that can prepare me for success
 - 📫 How to reach me ...
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: Former Mr. California Light-Heavyweight Champion 
